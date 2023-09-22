@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.AssemblyInfo.cs
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\bin\Debug\net6.0\metovloadhometask.22.09.exe
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\bin\Debug\net6.0\metovloadhometask.22.09.deps.json
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\bin\Debug\net6.0\metovloadhometask.22.09.runtimeconfig.json
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\bin\Debug\net6.0\metovloadhometask.22.09.dll
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\bin\Debug\net6.0\metovloadhometask.22.09.pdb
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.dll
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\refint\metovloadhometask.22.09.dll
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.pdb
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\metovloadhometask.22.09.genruntimeconfig.cache
+C:\Users\hp\source\repos\metovloadhometask.22.09\metovloadhometask.22.09\obj\Debug\net6.0\ref\metovloadhometask.22.09.dll
